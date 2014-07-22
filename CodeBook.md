@@ -38,6 +38,6 @@
 
 No additional processing of the raw HAR data was performed.
 
-### Generated Data Set 2: UCI-HAR-tidy-means-Dataset.txt*
+### Generated Data Set 2: *UCI-HAR-tidy-means-Dataset.txt*
 
 *UCI-HAR-tidy-means-Dataset.txt* is a 180 by 68 data set derived from the *UCI-HAR-tidy-Dataset.txt*.  The file is formatted as multiple lines of comma separated values.  The first line contains the feature names.  The features are the same as those described in the table above.  The main difference is that each row in *UCI-HAR-tidy-means-Dataset.txt* represents the means computed for a unique subject/activity-id group in *UCI-HAR-tidy-Dataset.txt*.  No additional processing of the raw HAR data or the *UCI-HAR-tidy-Dataset.txt* data was performed.

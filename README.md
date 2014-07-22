@@ -10,7 +10,7 @@ This script was written and tested using R 3.1.1 and RStudio 0.98.977.  Earlier 
 
 ### R Libraries
 
-*run_analysis.R* uses the *data.table* library for all data sets to improve read and indexing performance while generating the clean data sets.  A data.table is mostly compatible with R's standard data.frame implementation.  The data.table library is available from [CRAN](http://cran.r-project.org/web/packages/data.table/index.html).
+*run_analysis.R* uses the *data.table 1.9.2* library for all data sets to improve read and indexing performance while generating the clean data sets.  A data.table is mostly compatible with R's standard data.frame implementation.  The data.table library is available from [CRAN](http://cran.r-project.org/web/packages/data.table/index.html).
 
 ### Custom Functions
 
